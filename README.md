@@ -36,8 +36,8 @@
      <a href="https://vk.com/id562131031" target="_blank">
       <img src="https://github.com/kseniakap/kseniakap/assets/119811424/012a626a-644b-4e95-af3f-030cfd1e2cc9" width="40" height="40" alt="vk" />
     </a>
-
  </div>
+ 
 ### ⚙️ GitHub статистика:
 
 <table>
