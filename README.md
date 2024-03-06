@@ -5,7 +5,7 @@
 ###   Мои работы:
 <h1>Прототип интернет-магазина Hoff</h1>
 <a href="https://skrinshoter.ru/vMcp50S89eN">Полное видео-демонстрация работы интернет-магазина</a>
-<a href="https://hoffi-store.vercel.app/" target="_blank">
+<a href="https://hoffi-store-react.vercel.app/" target="_blank">
    Ссылка на сайт
   </a>
 
