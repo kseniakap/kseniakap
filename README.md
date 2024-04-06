@@ -16,7 +16,7 @@
 </a>
 <h4>Портфолио</h1>
 <div>
-   <a href="https://kseniakap.github.io/my-portfolio/">Здесь вы можете ознакомиться с некоторыми моими работами)</a>
+   <a href="https://potfolio-lime-xi.vercel.app/">Здесь вы можете ознакомиться с некоторыми моими работами)</a>
 </div>
 
 
