@@ -8,9 +8,7 @@
    Ссылка на сайт
 </a>
 <h4>Прототип интернет-магазина Hoff</h1>
-<div>
-   <a href="https://skrinshoter.ru/vMcp50S89eN">Полное видео-демонстрация работы интернет-магазина</a>
-</div>
+
 <a href="https://hoffi-store-react.vercel.app/" target="_blank">
    Ссылка на сайт
 </a>
