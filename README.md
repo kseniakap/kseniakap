@@ -23,27 +23,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
  </div>
 
-
----
-
- 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| WEB-разработчик                                                 | 12/2022 - 02/2023 |
-| Верстка интернет магазина с нуля до завершения, HTML/CSS/JS     | 02/2023 - 03/2023 |
-| Практический JavaScript (Продвинутый уровень)                   | 02/2023 - 05/2023 |
-| Полный курс по JavaScript + React - с нуля до результата        | 03/2023 - 08/2023 |
-
-
 ### 🤝 Социальные сети:
 
   <div id="badges">
     <a href="https://t.me/ksenia_kap_1" target="_blank">
       <img src="https://github.com/kseniakap/kseniakap/assets/119811424/c3806e95-9163-4756-80e7-f847ca67cf21" width="40" height="40" alt="telegram" />
-    </a>
-     <a href="https://vk.com/id562131031" target="_blank">
-      <img src="https://github.com/kseniakap/kseniakap/assets/119811424/012a626a-644b-4e95-af3f-030cfd1e2cc9" width="40" height="40" alt="vk" />
     </a>
  </div>
  
