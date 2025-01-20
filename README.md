@@ -4,7 +4,7 @@
 
 <h4>Портфолио</h1>
 <div>
-   <a href="https://kseniakap.github.io/portfolio/">Здесь вы можете ознакомиться с некоторыми моими работами)</a>
+   <a href="https://kseniakap.github.io/portfolio/">Здесь вы можете ознакомиться с некоторыми моими работами</a>
 </div>
 
 
