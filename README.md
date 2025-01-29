@@ -27,7 +27,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://t.me/@ksenia4235" target="_blank">
+    <a href="https://t.me/ksenia4235" target="_blank">
       <img src="https://github.com/kseniakap/kseniakap/assets/119811424/c3806e95-9163-4756-80e7-f847ca67cf21" width="40" height="40" alt="telegram" />
     </a>
  </div>
